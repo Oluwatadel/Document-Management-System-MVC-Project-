@@ -1,0 +1,88 @@
+﻿@using DMSMVC.Models.DTOs
+@model ICollection<StaffDto>
+@{
+	if (ViewBag.Role == "Admin") Layout = "_Layout2";
+	else Layout = "_Layout3";
+	// var staff = Model;
+}
+<div class="departments">
+	<div class="create">
+		<a asp-action="CreateStaff" asp-controller="Staff"><span>Create Staff</span></a>
+	</div>
+
+	<div class="board">
+		@if (Model == null)
+		{
+			<tr>
+				<div class="no-Staff">
+					No Staff is currently register under this department
+				</div>
+			</tr>
+		}
+		else
+		{
+			<table width=100%>
+				<thead>
+
+				<thead>
+					<tr>
+						<td hidden>id</td>
+						<td>Lastname</td>
+						<td>Firstname</td>
+						<td>Email</td>
+						<td>Staff No</td>
+						<td>Level</td>
+						<td></td>
+					</tr>
+				</thead>
+				<tbody>
+						@foreach (var staff in Model)
+						{
+						<tr>
+							<td hidden>@staff.Id</td>
+
+							<td class="people-des">
+								<!--Full name here-->
+								<p>@staff.LastName</p>
+							</td>
+							
+							<td class="people-des">
+								<!--Full name here-->
+								<p>@staff.FirstName</p>
+							</td>
+							
+							<td class="people-des">
+								<!--Full name here-->
+								<p>@staff.Email</p>
+							</td>
+
+							<td class="people-des">
+								<!--Staff number here-->
+								<p>@staff.StaffNumber</p>
+							</td>
+
+							<td class="people-des">
+								<!--Staff level here-->
+								<p>@staff.Level</p>
+							</td>
+
+							<td class="people">
+								<img src="~/src/Picture/@staff.ImageUrl" alt="">
+							</td>
+
+							<td>
+								<div class="edit">
+									<div class="inner">
+										<li><a asp-action="UpdateStaff" asp-controller="Staff" asp-route-id="@staff.Id">Edit</a></li>
+									</div>
+
+								</div>
+							</td>
+
+						</tr>
+						}
+					}
+				</tbody>
+			</table>
+
+		}

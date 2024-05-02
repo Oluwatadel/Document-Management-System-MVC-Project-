@@ -1,0 +1,205 @@
+﻿@using DMSMVC.Models.DTOs;
+@model ICollection<DocumentDTO>
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Document</title>
+    <link rel="stylesheet" href="~/css/Dashboard.css">
+    <link rel="stylesheet" href="~/css/department.css">
+    <link rel="stylesheet" href="~/css/staff.css"> 
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+</head>
+<body>
+    <section id="menu">
+        <div class="logo">
+            <img src="AIRIS-Photoroom.png-Photoroom3.svg" alt="">
+            <h2>Airis SDMS</h2>
+        </div>
+
+		@if(TempData["Role"] == "Staff")
+		{
+		  <div class="items">
+            <li>
+                <a asp-action="StaffDashBoard" asp-controller="User">
+                    <i class="fa fa-dashboard fas"></i>DashBoard
+                </a>
+            </li>
+            <li>
+                <a asp-action="Index" asp-controller="Home">
+                    <i class='fa fa-home fas'></i>Home
+                </a>
+            </li>
+            <li>
+                <a asp-action="StaffDetail" asp-controller="Staff" asp-route-id="@ViewBag.Id">
+                    <i class="fa fa-group fas"></i>Update Details
+                </a>
+            </li>
+            <li>
+                <a asp-action="ListAllDocument" asp-controller="Document">
+                    <i class='fa fa-book fas'></i> Manage Document
+                </a>
+            </li>
+            <li>
+                <a asp-action="" asp-controller="">
+                    <i class='fa fa-comments-o fas'></i>Chat
+                </a>
+            </li>
+
+			</div>
+		}
+		else
+		{
+			 <div class="items">
+                <li>
+                    <a asp-action="StaffDashBoard" asp-controller="User">
+                        <i class="fa fa-dashboard fas"></i>DashBoard
+                    </a>
+                </li>
+                <li>
+                    <a asp-action="Index" asp-controller="Home">
+                        <i class='fa fa-home fas'></i>Home
+                    </a>
+                </li>
+                <li>
+                    <a asp-action="StaffDetail" asp-controller="Staff" asp-route-id="@ViewBag.Id">
+                        <i class="fa fa-group fas"></i>Update Details
+                    </a>
+                </li>
+                @* <li>
+                    <a asp-action="ManageDepartment" asp-controller="Department">
+                        <i class='fa fa-bars fas'></i> Manage Department
+                    </a>
+                </li> *@
+                <li>
+                    <a asp-action="ListAllDocument" asp-controller="Document">
+                        <i class='fa fa-book fas'></i> Manage Document
+                    </a>
+                </li>
+                <li class="signout">
+                    <a asp-action="LogOut" asp-controller="User">
+                        <i class='fa fa-sign-out'></i>Sign Out
+                    </a>
+                </li>
+
+             </div>
+		}
+
+    </section>
+    <section id="interface">
+
+
+        <!-- nav bar containing profile and search bar -->
+        <div class="navigation">
+            <div class="n1">
+                <div>
+                    <i id="menu-btn" class="fa fa-bars"></i>
+                </div>
+                <div class="profile-bell">
+                    <div class="search">
+                        <i class="	fa fa-search"></i>
+                        <input type="text" placeholder="Search">
+                    </div>
+                    <div class="profile">
+                        <i class="fa fa-bell"></i>
+
+                        <!-- this image will be dynamically rendered to pop up the log in user's image -->
+                        <img src="~/src/Pictures/@TempData["UserImage"]" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ============boxes for values ============-->
+
+        <div class="departments">
+	    @if(TempData["Message"] == "Upload Successfull" || TempData["Message"] == "Delete Successfull!!!")
+	    {
+		    <p class="alert alert-danger">@TempData["Message"]</p>
+	    }
+	    <div class="create">
+		    <a asp-action="UploadDocument" asp-controller="Document"><span>Upload Document</span></a>
+	    </div>
+
+	    <div class="board">
+	    @if (Model == null)
+		    {
+			    <tr>
+				    <div class="no-Staff">
+					    No document as been uploaded
+				    </div>
+			    </tr>
+		    }
+		    else
+		    {
+		    <table width=100%>
+			    <thead>
+
+			    <thead>
+				    <tr>
+					    <td hidden>id</td>
+					    <td>Title</td>
+					    <td>Description</td>
+					    <td>Time Upload</td>
+					    <td>Uploaded by</td>
+				    </tr>
+			    </thead>
+                <tbody>
+				    @foreach(var document in Model)
+					    {
+						    <tr>
+							    <td hidden>@document.DocumentId</td>
+                    
+							    <td class="people-des">
+								    <!--Staff number here-->
+								    <p>@document.Title</p>
+							    </td>
+							
+							    <td class="people-des">
+								    <!--Staff number here-->
+								    <p>@document.Description</p
+							    </td>
+							
+							    <td class="people-des">
+								    <!--Staff number here-->
+								    <p>@document.TimeUploaded</p>
+							    </td>
+							 
+							    <td class="people-des">
+								    <!--Staff number here-->
+								    <p>@document.Author</p>
+							    </td>
+
+							    <td>
+								    <div class="btn-de">
+									    <ul class="edit">
+										    <li class="outer">
+											    <a asp-action ="DeleteDocument" asp-controller ="Document" asp-route-id="@document.DocumentId">Delete</a>
+										    </li>
+											<li class="outer">
+											    <a href="~/src/Documents/@document.DocumentUrl">Download</a>
+										    </li>
+											@* <li class="outer">
+											    <a asp-action ="DownloadDocument" asp-controller ="Document" asp-route-id="@document.DocumentId">Download</a>
+										    </li> *@
+									    </ul>
+								    </div>
+							    </td>
+						    </tr>
+					    }
+				    </tbody>
+		    </table>
+			
+		    }
+
+	    </div>
+    </div>
+    </section>
+</body>
+</html>

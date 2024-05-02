@@ -1,0 +1,26 @@
+﻿@model DMSMVC.Models.RequestModel.DepartmentRequestModel
+@{
+    ViewData["Title"] = "Create Department";
+    Layout = "_Layout2";
+}
+
+<div class="containerbox depart">
+    <div class="container">
+        <div class="reg">
+            <h2>Create Department</h2>
+        </div>
+        <form class="wrapper" method="post">
+            <div class="form-control">
+                <dl class="DpName">Department Name</dl>
+                <input type="text" asp-for="DepartmentName" id="" placeholder="Enter the name of the new department" required>
+            </div>
+            <div class="form-control">
+                <dl class="DpName">Department Acronym</dl>
+                <input type="text" asp-for="Acronym" id="" placeholder="Enter the acronym of the new department" required>
+            </div>
+            <div class="form-control">
+                <input class="submit" type="submit" value="Register">
+            </div>
+        </form>
+    </div>
+</div>

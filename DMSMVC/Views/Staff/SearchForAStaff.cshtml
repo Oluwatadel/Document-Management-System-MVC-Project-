@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff</title>
+    <link rel="stylesheet" href="~/css/Login.css" asp-append-version="true" />
+</head>
+<body>
+    
+    <div class="contain">
+        @if (TempData["Message"] != null)
+        {
+            <span class="alert">@TempData["Message"]</span>
+        }
+        <div class="containerbox">
+            <div class="container">
+                <div class="reg">
+                    <h2>Search for a staff</h2>
+                </div>
+                <form class="wrapper" method="post">
+                    <div class="form-control">
+                        <labe>Enter the email or staff number of staff</labe>
+                        <input type="email"  name="emailOrStaffNumber" id="" placeholder="Enter your email" required>
+                    </div>
+                    <div class="form-control">
+                        <input class="submit" type="submit" value="Search">
+                    </div>
+                    <span class="login">Create a new staff  <a asp-action="RegisterUser" asp-controller="User">Create a new staff</a></span>
+                </form>
+            </div>
+        </div>
+        @* <div class="container2">
+        <img src="~/Images/Tobi.jpg">
+        </div> *@
+    </div>
+
+</body>
+</html>

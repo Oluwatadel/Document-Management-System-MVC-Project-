@@ -1,0 +1,114 @@
+﻿@model DMSMVC.Models.RequestModel.DocumentRequestModel
+
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff Dashboard</title>
+    <link rel="stylesheet" href="~/css/Dashboard.css">
+    <link rel="stylesheet" href="~/css/department.css">
+    <link rel="stylesheet" href="~/css/staff.css"> 
+    <link rel="stylesheet" href="~/css/Register.css">
+    <link rel="stylesheet" href="~/css/Create.css">
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+</head>
+<body>
+    <section id="menu">
+        <div class="logo">
+            <img src="AIRIS-Photoroom.png-Photoroom3.svg" alt="">
+            <h2>Airis SDMS</h2>
+        </div>
+
+        <div class="items">
+            <li>
+                <a asp-action="StaffDashBoard" asp-controller="User">
+                    <i class="fa fa-dashboard fas"></i>DashBoard
+                </a>
+            </li>
+            <li>
+                <a asp-action="Index" asp-controller="Home">
+                    <i class='fa fa-home fas'></i>Home
+                </a>
+            </li>
+            <li>
+                <a asp-action="StaffDetail" asp-controller="Staff" asp-route-id="@ViewBag.Id">
+                    <i class="fa fa-group fas"></i>Update Details
+                </a>
+            </li>
+            <li>
+                <a asp-action="ListAllDocument" asp-controller="Document">
+                    <i class='fa fa-book fas'></i> Manage Document
+                </a>
+            </li>
+            <li>
+                <a asp-action="" asp-controller="">
+                    <i class='fa fa-comments-o fas'></i>Chat
+                </a>
+            </li>
+
+        </div>
+    </section>
+    <section id="interface">
+
+
+        <!-- nav bar containing profile and search bar -->
+        <div class="navigation">
+            <div class="n1">
+                <div>
+                    <i id="menu-btn" class="fa fa-bars"></i>
+                </div>
+                <div class="profile-bell">
+                    <div class="search">
+                        <i class="	fa fa-search"></i>
+                        <input type="text" placeholder="Search">
+                    </div>
+                    <div class="profile">
+                        <i class="fa fa-bell"></i>
+
+                        <!-- this image will be dynamically rendered to pop up the log in user's image -->
+                        <img src="~/images/tobi.jpg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ============boxes for values ============-->
+
+        <div class="container-outer">
+            <div class="containercontain">
+            <div class="reg">
+                <h2>Upload Document</h2>
+            </div>
+            <form class="wrapper" method="post" enctype="multipart/form-data">
+
+                <div class="form">
+                    <div class="inner">
+                        <label>Title</label>
+                        <input class="input" type="text" name="Title"  placeholder="Enter the title of the Document">
+                    </div>
+                    <div class="inner">
+                        <label> First Name</label>
+                            <textarea class="textarea" type="text" name="Description" placeholder="Enter description" ></textarea>
+                    </div>
+                </div>
+                <div class="form">
+                    <div class="inner">
+                        <label> Upload</label>
+                        <input class="input" type="file" name ="File">
+                    </div>
+                </div>
+                    <div class="form">
+                        <input class="submit" type="submit" value="Submit">
+                    </div>
+            </form>
+        </div>
+        </div>
+
+    </section>
+</body>
+</html>

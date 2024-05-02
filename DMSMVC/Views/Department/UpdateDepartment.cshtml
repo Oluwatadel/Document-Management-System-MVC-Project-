@@ -1,0 +1,32 @@
+﻿@model DMSMVC.Models.DTOs.DepartmentDTO
+
+@{
+    Layout = "_Layout2";
+}
+
+<div class="container">
+    <div class="reg">
+        <h2>Update Department</h2>
+    </div>
+    <form class="wrapper" method="post" enctype="multipart/form-data">
+
+        <div class="form-control" hidden>
+            <label hidden>Department id</label>
+            <input class="input" type="text" asp-for ="Id" hidden>
+        </div>
+
+        <div class="form-control">
+            <label asp-for="DepartmentName">Department Name</label>
+            <input class="input" type="text" asp-for="DepartmentName" placeholder= "@Model.DepartmentName">
+        </div>
+
+        <div class="form-control">
+            <label>Acronym</label>
+            <input type="text" asp-for="Acronym" placeholder="@Model.Acronym">
+        </div>
+
+        <div class="form-control">
+            <input class="submit" type="submit" value="Submit">
+        </div>
+    </form>
+</div>

@@ -1,0 +1,28 @@
+﻿@model DMSMVC.Models.DTOs.StaffDto
+@{
+    if (ViewBag.Role == "Admin") Layout = "_Layout2";
+    else Layout = "_Layout3";
+    var staff = Model;
+}
+
+
+
+<div class="detail-container">
+    <div class="image">
+        <img src="~/src/Picture/@staff.ImageUrl" />
+    </div>
+    <div class="inner-container">
+        <div class="details">
+            <p hidden>@staff.Id</p>
+            <h3>@staff.LastName @Model.FirstName</h3>
+            <p>Email: @staff.Email</p>
+            <p>Gender: @staff.Gender</p>
+            <p>Staff No: @staff.StaffNumber</p>
+            <p>Level: @staff.Level</p>
+            <p>Department: @staff.DepartmentName</p>
+        </div>
+        <div class="btn">
+            <a asp-action="UpdateStaff" asp-controller="Staff" asp-route-id="@Model.Id">Update Staff</a>
+        </div>
+    </div>
+</div>
