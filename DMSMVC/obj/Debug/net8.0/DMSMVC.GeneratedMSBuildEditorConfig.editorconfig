@@ -17,107 +17,107 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DMSMVC
 build_property.RootNamespace = DMSMVC
-build_property.ProjectDir = C:\Users\AIRIS TECHNOVATION\OneDrive\CodeLearnersHub\MVC Project\DMSMVC\
+build_property.ProjectDir = C:\Users\AIRIS TECHNOVATION\OneDrive\CodeLearnersHub\Document-Management-System\DMSMVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\AIRIS TECHNOVATION\OneDrive\CodeLearnersHub\MVC Project\DMSMVC
+build_property.MSBuildProjectDirectory = C:\Users\AIRIS TECHNOVATION\OneDrive\CodeLearnersHub\Document-Management-System\DMSMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Department/CreateDepartment.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Department/CreateDepartment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGVEZXBhcnRtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Department/Delete.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Department/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Department/DisplayAllStaffsOfDepartment.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Department/DisplayAllStaffsOfDepartment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEaXNwbGF5QWxsU3RhZmZzT2ZEZXBhcnRtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Department/ManageDepartment.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Department/ManageDepartment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxNYW5hZ2VEZXBhcnRtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Department/UpdateDepartment.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Department/UpdateDepartment.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxVcGRhdGVEZXBhcnRtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Document/ListAllDocument.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Document/ListAllDocument.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRcTGlzdEFsbERvY3VtZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Document/UploadDocument.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Document/UploadDocument.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdW1lbnRcVXBsb2FkRG9jdW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Home/Index.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Home/Privacy.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Shared/Error.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Staff/CreateStaff.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Staff/CreateStaff.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcQ3JlYXRlU3RhZmYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Staff/SearchForAStaff.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Staff/SearchForAStaff.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcU2VhcmNoRm9yQVN0YWZmLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Staff/StaffDetails.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Staff/StaffDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcU3RhZmZEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Staff/UpdateStaff.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Staff/UpdateStaff.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcVXBkYXRlU3RhZmYuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/User/Dashboard.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/User/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/User/Login.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/User/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/User/RegisterUser.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/User/RegisterUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3RlclVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/User/StaffDashboard.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/User/StaffDashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTdGFmZkRhc2hib2FyZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/_ViewImports.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/_ViewStart.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2oerahooib
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Shared/_Layout2.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Shared/_Layout2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-gt07mghxbk
 
-[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/MVC Project/DMSMVC/Views/Shared/_Layout3.cshtml]
+[C:/Users/AIRIS TECHNOVATION/OneDrive/CodeLearnersHub/Document-Management-System/DMSMVC/Views/Shared/_Layout3.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-j812ynhmzt
