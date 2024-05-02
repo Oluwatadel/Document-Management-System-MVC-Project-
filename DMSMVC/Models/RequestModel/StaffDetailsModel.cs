@@ -14,7 +14,7 @@ namespace DMSMVC.Models.RequestModel
         public string? PhoneNumber { get; set; }
         public GenderEnum Gender { get; set; }
         public string? Email { get; set; }
-        public String? StaffNumber { get; set; }
+        public string? StaffNumber { get; set; }
         public IFormFile ProfilePhotoUrl { get; set; } = default!;
         public string Level { get; set; }
         public Guid DepartmentId { get; set; }

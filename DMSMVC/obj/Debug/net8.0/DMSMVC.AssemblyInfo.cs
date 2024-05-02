@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DMSMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13d4e6f461df8f65bd2b7604f7f21289644ec788")]
 [assembly: System.Reflection.AssemblyProductAttribute("DMSMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DMSMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\models\\requestmodel\\staffdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\models\\requestmodel\\staffdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\views\\user\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\user\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\wwwroot\\css\\department.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\wwwroot\\css\\department.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +31,28 @@
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\staff\\staffdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\models\\requestmodel\\staffdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\models\\requestmodel\\staffdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\repository\\implementation\\filerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\repository\\interface\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\repository\\interface\\ifilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,14 +115,6 @@
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\shared\\_layout3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\views\\user\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\user\\registeruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\views\\department\\displayallstaffsofdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\department\\displayallstaffsofdepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -115,20 +127,12 @@
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\service\\implementation\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\wwwroot\\css\\staff.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\wwwroot\\css\\staff.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\wwwroot\\css\\department.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\wwwroot\\css\\department.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\models\\dtos\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -149,10 +153,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\context\\dmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\context\\dmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|solutionrelative:dmsmvc\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8EB20EF-41CD-472F-BC43-53BF4C8CC5BE}|DMSMVC\\DMSMVC.csproj|c:\\users\\airis technovation\\onedrive\\codelearnershub\\document-management-system\\dmsmvc\\models\\dtos\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -436,11 +436,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UpdateStaff.cshtml",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Staff\\UpdateStaff.cshtml",
               "RelativeDocumentMoniker": "DMSMVC\\Views\\Staff\\UpdateStaff.cshtml",
@@ -453,31 +453,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FileRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\FileRepository.cs",
-              "RelativeDocumentMoniker": "DMSMVC\\Repository\\Implementation\\FileRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\FileRepository.cs",
-              "RelativeToolTip": "DMSMVC\\Repository\\Implementation\\FileRepository.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T19:10:08.121Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "DMSMVC\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "DMSMVC\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAEBVwAsAAAApAAAA",
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "DMSMVC\\Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "DMSMVC\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T10:37:55.677Z"
+              "WhenOpened": "2024-04-24T10:47:58.856Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DMSMVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DMSMVC\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:38:04.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "DMSMVC\\Views\\User\\Login.cshtml",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "DMSMVC\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T07:22:47.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\User\\RegisterUser.cshtml",
+              "RelativeDocumentMoniker": "DMSMVC\\Views\\User\\RegisterUser.cshtml",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\User\\RegisterUser.cshtml",
+              "RelativeToolTip": "DMSMVC\\Views\\User\\RegisterUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T08:04:23.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DMSMVC\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DMSMVC\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-11T06:42:08.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StaffDetails.cshtml",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Staff\\StaffDetails.cshtml",
               "RelativeDocumentMoniker": "DMSMVC\\Views\\Staff\\StaffDetails.cshtml",
@@ -490,45 +531,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StaffController.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\StaffController.cs",
-              "RelativeDocumentMoniker": "DMSMVC\\Controllers\\StaffController.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\StaffController.cs",
-              "RelativeToolTip": "DMSMVC\\Controllers\\StaffController.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAhwIQAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T10:47:58.856Z",
+              "DocumentIndex": 3,
+              "Title": "Department.css",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\css\\Department.css",
+              "RelativeDocumentMoniker": "DMSMVC\\wwwroot\\css\\Department.css",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\css\\Department.css",
+              "RelativeToolTip": "DMSMVC\\wwwroot\\css\\Department.css",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T03:01:53.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.css",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\css\\Dashboard.css",
+              "RelativeDocumentMoniker": "DMSMVC\\wwwroot\\css\\Dashboard.css",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\css\\Dashboard.css",
+              "RelativeToolTip": "DMSMVC\\wwwroot\\css\\Dashboard.css",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T09:34:44.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StaffDetailsModel.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Models\\RequestModel\\StaffDetailsModel.cs",
-              "RelativeDocumentMoniker": "DMSMVC\\Models\\RequestModel\\StaffDetailsModel.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Models\\RequestModel\\StaffDetailsModel.cs",
-              "RelativeToolTip": "DMSMVC\\Models\\RequestModel\\StaffDetailsModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T13:57:05.872Z",
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "DMSMVC\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "DMSMVC\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T05:37:52.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ListAllDocument.cshtml",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Document\\ListAllDocument.cshtml",
-              "RelativeDocumentMoniker": "DMSMVC\\Views\\Document\\ListAllDocument.cshtml",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Document\\ListAllDocument.cshtml",
-              "RelativeToolTip": "DMSMVC\\Views\\Document\\ListAllDocument.cshtml",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAswK8AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-26T21:37:53.438Z"
+              "DocumentIndex": 16,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Interface\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "DMSMVC\\Repository\\Interface\\IFileRepository.cs",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Interface\\IFileRepository.cs",
+              "RelativeToolTip": "DMSMVC\\Repository\\Interface\\IFileRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:26:48.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Program.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Program.cs",
@@ -541,18 +595,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IFileRepository.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Interface\\IFileRepository.cs",
-              "RelativeDocumentMoniker": "DMSMVC\\Repository\\Interface\\IFileRepository.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Interface\\IFileRepository.cs",
-              "RelativeToolTip": "DMSMVC\\Repository\\Interface\\IFileRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "StaffDetailsModel.cs",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Models\\RequestModel\\StaffDetailsModel.cs",
+              "RelativeDocumentMoniker": "DMSMVC\\Models\\RequestModel\\StaffDetailsModel.cs",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Models\\RequestModel\\StaffDetailsModel.cs",
+              "RelativeToolTip": "DMSMVC\\Models\\RequestModel\\StaffDetailsModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T15:26:48.276Z"
+              "WhenOpened": "2024-04-17T13:57:05.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
+              "Title": "ListAllDocument.cshtml",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Document\\ListAllDocument.cshtml",
+              "RelativeDocumentMoniker": "DMSMVC\\Views\\Document\\ListAllDocument.cshtml",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Document\\ListAllDocument.cshtml",
+              "RelativeToolTip": "DMSMVC\\Views\\Document\\ListAllDocument.cshtml",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAswK8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T21:37:53.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "DMSMVC\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "DMSMVC\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAEBVwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:37:55.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\FileRepository.cs",
+              "RelativeDocumentMoniker": "DMSMVC\\Repository\\Implementation\\FileRepository.cs",
+              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\FileRepository.cs",
+              "RelativeToolTip": "DMSMVC\\Repository\\Implementation\\FileRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:10:08.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "DocumentController.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\DocumentController.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Controllers\\DocumentController.cs",
@@ -564,19 +655,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "DMSMVC\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "DMSMVC\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-11T06:42:08.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "DocumentService.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Service\\Implementation\\DocumentService.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Service\\Implementation\\DocumentService.cs",
@@ -588,19 +667,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "DMSMVC\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\UserController.cs",
-              "RelativeToolTip": "DMSMVC\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAYwJYAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T10:38:04.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "ChatRepository.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\ChatRepository.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Repository\\Implementation\\ChatRepository.cs",
@@ -612,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\UserRepository.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Repository\\Implementation\\UserRepository.cs",
@@ -624,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "StaffRepository.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\StaffRepository.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Repository\\Implementation\\StaffRepository.cs",
@@ -636,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "DocumentRepository.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\DocumentRepository.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Repository\\Implementation\\DocumentRepository.cs",
@@ -648,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "DepartmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\DepartmentRepository.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Repository\\Implementation\\DepartmentRepository.cs",
@@ -660,7 +727,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "ChatContentRepository.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\ChatContentRepository.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Repository\\Implementation\\ChatContentRepository.cs",
@@ -672,7 +739,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Repository\\Implementation\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Repository\\Implementation\\UnitOfWork.cs",
@@ -684,7 +751,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Controllers\\HomeController.cs",
@@ -696,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "SearchForAStaff.cshtml",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Staff\\SearchForAStaff.cshtml",
               "RelativeDocumentMoniker": "DMSMVC\\Views\\Staff\\SearchForAStaff.cshtml",
@@ -708,7 +775,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "_Layout3.cshtml",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Shared\\_Layout3.cshtml",
               "RelativeDocumentMoniker": "DMSMVC\\Views\\Shared\\_Layout3.cshtml",
@@ -717,18 +784,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-23T16:23:31.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_Layout2.cshtml",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeDocumentMoniker": "DMSMVC\\Views\\Shared\\_Layout2.cshtml",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Shared\\_Layout2.cshtml",
-              "RelativeToolTip": "DMSMVC\\Views\\Shared\\_Layout2.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAhwDEAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-25T05:37:52.207Z"
             },
             {
               "$type": "Document",
@@ -744,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "DisplayAllStaffsOfDepartment.cshtml",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Department\\DisplayAllStaffsOfDepartment.cshtml",
               "RelativeDocumentMoniker": "DMSMVC\\Views\\Department\\DisplayAllStaffsOfDepartment.cshtml",
@@ -756,7 +811,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Service\\Implementation\\DepartmentService.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Service\\Implementation\\DepartmentService.cs",
@@ -768,19 +823,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RegisterUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\User\\RegisterUser.cshtml",
-              "RelativeDocumentMoniker": "DMSMVC\\Views\\User\\RegisterUser.cshtml",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\User\\RegisterUser.cshtml",
-              "RelativeToolTip": "DMSMVC\\Views\\User\\RegisterUser.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAIBJwBQAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T08:04:23.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "ManageDepartment.cshtml",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\Department\\ManageDepartment.cshtml",
               "RelativeDocumentMoniker": "DMSMVC\\Views\\Department\\ManageDepartment.cshtml",
@@ -792,19 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Dashboard.css",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\css\\Dashboard.css",
-              "RelativeDocumentMoniker": "DMSMVC\\wwwroot\\css\\Dashboard.css",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\css\\Dashboard.css",
-              "RelativeToolTip": "DMSMVC\\wwwroot\\css\\Dashboard.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-10T09:34:44.405Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\User\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "DMSMVC\\Views\\User\\Dashboard.cshtml",
@@ -816,7 +847,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "Staff.css",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\css\\Staff.css",
               "RelativeDocumentMoniker": "DMSMVC\\wwwroot\\css\\Staff.css",
@@ -828,19 +859,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Department.css",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\css\\Department.css",
-              "RelativeDocumentMoniker": "DMSMVC\\wwwroot\\css\\Department.css",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\wwwroot\\css\\Department.css",
-              "RelativeToolTip": "DMSMVC\\wwwroot\\css\\Department.css",
-              "ViewState": "AQIAAIEAAAAAAAAAAIBJwJUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-10T03:01:53.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "StaffDTO.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Models\\DTOs\\StaffDTO.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Models\\DTOs\\StaffDTO.cs",
@@ -852,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "IdentityService.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Service\\Implementation\\IdentityService.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Service\\Implementation\\IdentityService.cs",
@@ -864,7 +883,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "StaffService.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Service\\Implementation\\StaffService.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Service\\Implementation\\StaffService.cs",
@@ -876,7 +895,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Service\\Implementation\\UserService.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Service\\Implementation\\UserService.cs",
@@ -888,7 +907,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "DmsContext.cs",
               "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Context\\DmsContext.cs",
               "RelativeDocumentMoniker": "DMSMVC\\Context\\DmsContext.cs",
@@ -897,18 +916,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T07:21:13.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\User\\Login.cshtml",
-              "RelativeDocumentMoniker": "DMSMVC\\Views\\User\\Login.cshtml",
-              "ToolTip": "C:\\Users\\AIRIS TECHNOVATION\\OneDrive\\CodeLearnersHub\\Document-Management-System\\DMSMVC\\Views\\User\\Login.cshtml",
-              "RelativeToolTip": "DMSMVC\\Views\\User\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-10T07:22:47.576Z"
             },
             {
               "$type": "Document",
